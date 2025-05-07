@@ -1,0 +1,13 @@
+p {
+    font-family: "Cal Sans", sans-serif;
+    padding: 20px;
+    margin: 40px;
+}
+
+.default-paragraph {
+    background-color: #F5F5F5;
+}
+
+.highlighted-paragraph {
+    background-color: #F0CCE2;
+}
